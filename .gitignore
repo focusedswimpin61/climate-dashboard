@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore Jupyter/IPython notebooks (if you used any)
+*.ipynb_checkpoints
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit generated folders (if any)
+.streamlit/
