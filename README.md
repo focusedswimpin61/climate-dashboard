@@ -44,8 +44,6 @@ Climate Trends Dashboard is a user-friendly Streamlit web app that lets you visu
    streamlit run app.py
    ```
 
-4. **Open in browser**  
-   Visit [http://localhost:8501](http://localhost:8501) to access the dashboard.
 
 ---
 
@@ -53,8 +51,10 @@ Climate Trends Dashboard is a user-friendly Streamlit web app that lets you visu
 
 > _Replace screenshots below with your own once you run the app!_
 
-![Temperature Trends Example](docs/example-temperature.png)
-![Rainfall Trends Example](docs/example-rainfall.png)
+![image](https://github.com/user-attachments/assets/f85a846b-57ed-4111-a387-3573e44fa9bb)
+
+![image](https://github.com/user-attachments/assets/b0b83586-93a2-48ca-8339-53e27287a720)
+
 
 ---
 
